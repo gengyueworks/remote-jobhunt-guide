@@ -14,6 +14,8 @@
   10 个主流平台定位图 + 从 levelsio/awesome-remote-job 提炼的可借鉴打法。
 - 📰 **媒体报道与研究报告** —— `参考资料/media-reports/`
   收录关于远程工作的权威媒体深度报道与学术研究（HBR、FT、The Economist 等），持续更新。
+- 💼 **Upwork 专题** —— `参考资料/upwork专题/`
+  收录 Upwork 出海接单相关的实战内容（小红书等渠道筛选），持续更新。
 
 ## 本地查看
 
