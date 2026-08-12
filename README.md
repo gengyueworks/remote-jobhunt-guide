@@ -26,6 +26,8 @@
   AI 简历 Skill 避坑锐评（从夯到拉）+ 反幻觉简历工作流 + 跨来源合成的「简历红线清单」。
 - 🌐 **LinkedIn 主页优化（中英双语）** —— `参考资料/linkedin-profile-4changes.md`
   4 个显著提升 HR 回复率的 LinkedIn 主页改动（头像 / Headline / About / Featured），附英文翻译，适合留学生·外企·remote 求职。
+- 🧭 **个人品牌与定位** —— `参考资料/个人品牌与定位/`
+  AI 时代「如何呈现自己」的认知框架（战略层）：裸能力 < 公开 Claim ≤ AI 增强交付力；与简历专题 / LinkedIn 优化互补。
 
 ## 本地查看
 
